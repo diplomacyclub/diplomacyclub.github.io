@@ -1,5 +1,5 @@
 body {
-   background-image: (url"http://www.cwgsy.net/community/wargaming/images/map.gif")
+   background-image: radial-gradient(orange, green, yellow);
    font-family: "Lobster";
    font-size: 13px;
    font-style: italic;
