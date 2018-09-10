@@ -34,3 +34,12 @@ div1 {
    color: #ffd800
    text-decoration: underline wavy blue;
 }
+div3 {
+font-family: "Jokerman";
+   font-size: 99px;
+   font-style: italic;
+   font-style: line-through;
+   font-weight: bold;
+   text-align: right;
+   text-decoration: underline wavy blue;
+   color: #;
