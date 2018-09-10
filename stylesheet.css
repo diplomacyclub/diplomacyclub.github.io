@@ -9,6 +9,16 @@ body {
    color: #00ffed;
    background-color: #f7ffe0;
 }
+header {
+font-family: "Lobster";
+   font-size: 40px;
+   font-style: italic;
+   font-style: line-through;
+   font-weight: bold;
+   text-align: center;
+   text-decoration: underline wavy red;
+   color: #a5ff00;
+}
 div1 {
    font-size: 15px
    color: #ffd800
