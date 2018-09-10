@@ -1,6 +1,6 @@
 body {
    background-image: radial-gradient(orange, green, yellow);
-   font-family: "Lobster";
+   font-family: "Amatic sc";
    font-size: 13px;
    font-style: italic;
    font-style: line-through;
@@ -20,7 +20,7 @@ font-family: "Lobster";
    color: #a5ff00;
 }
 footer {
-   font-family: "Lobster";
+   font-family: "Comic sans ms";
    font-size: 9px;
    font-style: italic;
    font-style: line-through;
