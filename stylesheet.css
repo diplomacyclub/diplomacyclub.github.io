@@ -1,10 +1,11 @@
 body {
    font-family: "Lobster";
-   font-size: 11px;
+   font-size: 13px;
    font-style: italic;
+   font-style: line-through;
    font-weight: bold;
    text-decoration: underline wavy red;
-   color: #c6ff39;
+   color: #00ffed;
    background-color: #f7ffe0;
 }
 div1 {
