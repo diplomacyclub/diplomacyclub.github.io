@@ -19,6 +19,16 @@ font-family: "Lobster";
    text-decoration: underline wavy red;
    color: #a5ff00;
 }
+footer {
+   font-family: "Lobster";
+   font-size: 9px;
+   font-style: italic;
+   font-style: line-through;
+   font-weight: bold;
+   text-align: right;
+   text-decoration: underline wavy blue;
+   color: #a59fi0;
+}
 div1 {
    font-size: 15px
    color: #ffd800
